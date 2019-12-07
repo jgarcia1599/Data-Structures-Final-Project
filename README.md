@@ -1,4 +1,4 @@
-### Welcome to the hotelfinder application
+### Welcome to the Hotelfinder Application
 ---------
 To run this program, do the following:
 1. Open you terminal
