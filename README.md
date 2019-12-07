@@ -1,5 +1,5 @@
 ### Welcome to the Hotelfinder Application
----------
+=================
 To run this program, do the following:
 1. Open you terminal
 2. cd into this file on your computer
